@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: China’s Urban Precipitation IDF Curves Considering Climate Change Impacts
+description: This website demonstrates the precipitation intensity-duration-frequency curves averaged over China's urban area of 196 cities under past and future climates.
+sitemap:
+      path: sitemap.xml
